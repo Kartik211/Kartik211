@@ -7,7 +7,8 @@
 
 <img align="right" width=250px alt="Unicorn" src="https://media4.giphy.com/media/pbIavlMZE7TkcVriMM/200w.gif?cid=6c09b952s8zltcoblio327z0j42pbjaogctb5qiounrq86sv&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
 
-Because someone has to make sure your app doesn’t suck 
+Because someone has to make sure your app doesn’t suck
+
 |🎯 Bug Slayer| 🎮 SDET | Feature Owner| 
 
 I’m a passionate QA explorer on the path to becoming an elite SDET. Currently deep-diving into the world of test automation, CI/CD pipelines, and everything that makes scalable testing tick
