@@ -5,7 +5,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXMwZmw2bWRqbDU3Z2NxNHZscjk5YXZ4engyc3JhNW1qbWIzazk0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="30" style="vertical-align: middle; margin-right: 10px;"><strong>About me<strong>
 
 
-<img align="right" width=250px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVpeTRsamN6ZWJ2cXhmZmxhcmo5Y2E4czQ0ZHQxNzM3ZnhqYWl4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efuh1hLg1H438esuwG/giphy.gif"/>
+<img align="right" width=250px alt="Unicorn" src="https://pin.it/7na1PFugw"/>
 
 Because someone has to make sure your app doesn’t suck
 
