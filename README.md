@@ -1,151 +1,136 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/Anant">Kartikey</a> </h1>
-<br>
 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXMwZmw2bWRqbDU3Z2NxNHZscjk5YXZ4engyc3JhNW1qbWIzazk0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="30" style="vertical-align: middle; margin-right: 10px;"><strong>About me<strong>
-
-
-<img align="right" width=250px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVpeTRsamN6ZWJ2cXhmZmxhcmo5Y2E4czQ0ZHQxNzM3ZnhqYWl4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efuh1hLg1H438esuwG/giphy.gif"/>
-
-Because someone has to make sure your app doesn’t suck
-
-|🎯 Bug Slayer| 🎮 SDET | Feature Owner| 
-
-I’m a passionate QA explorer on the path to becoming an elite SDET. Currently deep-diving into the world of test automation, CI/CD pipelines, and everything that makes scalable testing tick
-
-🛠️ On my current grind: mastering Selenium, Playwright, RestAssured, Jenkins, and TestNG — one test case at a time.
-🚀 Mission: Bridge the gap between development and testing with clean code, sharp logs, and zero bugs left behind.
-
-→ linkedin.com/in/https://www.linkedin.com/in/kartikey-tyagi-13a969167/
-- 📫 Reach out to me at: <a href="kartiktyagi765@gmail.com">kartiktyagi765@gmail.com</a>
-<br>
-
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/Kartik211/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Kartik211&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
-
-<!-- Social Links -->
-<div align="center">
-  <a href="mailto:kartiktyagi765@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/kartikey-tyagi-13a969167/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="[https://www.instagram.com/https:/](https://www.instagram.com/kartik8344/)"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://x.com/https://x.com/tyagiaadi368"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
-  <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=black" /></a>
-</div>
-
-<br>
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
-### 🚀 Skills
+<h1 align="center"><b>Hi there, I'm <a href="https://github.com/Kartik211">Kartik Tyagi</a> 👋</b></h1>
+<h3 align="center">🚀 Senior Software QA Engineer | SDET | Automation Enthusiast</h3>
 
 ---
 
-#### 🖥️ Languages & Syntax:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXMwZmw2bWRqbDU3Z2NxNHZscjk5YXZ4engyc3JhNW1qbWIzazk0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="30" style="vertical-align: middle; margin-right: 10px;"><strong>About Me</strong>
+
+<img align="right" width=250px alt="QA Automation" src="https://media3.giphy.com/media/efuh1hLg1H438esuwG/giphy.gif"/>
+
+💡 Because someone has to make sure your app doesn’t suck 😄  
+🎯 Bug Slayer | 🧠 Automation Thinker | 🔍 Quality Gatekeeper  
+
+I’m a passionate QA Engineer on the journey to becoming a top-tier **SDET**, ensuring quality through automation, precision, and continuous improvement.
+
+🧩 On my current grind:
+- Mastering **Selenium**, **TestNG**, **RestAssured**, **Postman**, **Jenkins**, and **Docker**
+- Building scalable test frameworks from scratch
+- Blending **manual insight** with **automation excellence**
+
+🚀 Mission: Bridge the gap between development and testing through clean code, powerful logs, and zero flaky tests.  
+📫 Reach out: [kartiktyagi765@gmail.com](mailto:kartiktyagi765@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/kartikey-tyagi-13a969167](https://www.linkedin.com/in/kartikey-tyagi-13a969167/)
+
+---
+
+<!-- 🏆 Profile Trophies -->
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Kartik211&theme=onedark&row=1&column=7&margin-w=10&no-bg=true" alt="GitHub Trophies" width="85%" />
+    </a>
+</div>
+
+---
+
+<!-- 🌐 Social Links -->
+<div align="center">
+  <a href="mailto:kartiktyagi765@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="https://www.linkedin.com/in/kartikey-tyagi-13a969167/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
+  <a href="https://www.instagram.com/kartik8344/"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=pink" /></a>
+  <a href="https://x.com/tyagiaadi368"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=skyblue" /></a>
+  <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</div>
+
+---
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30">&nbsp; ***Skills***
+
+### 🧠 Technical Arsenal
+
+---
+
+#### 💻 Programming & Test Languages:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Rust (Learning)](https://img.shields.io/badge/Rust-Learning-%23000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
-#### ☁️ DevOps & Cloud:
+#### 🧪 Testing Tools:
+![Selenium](https://img.shields.io/badge/Selenium-%2344b78b.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-%23E34F26.svg?style=for-the-badge&logo=testng&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-%2300ffcc.svg?style=for-the-badge)
+![Cucumber](https://img.shields.io/badge/Cucumber-%23326ce5.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+
+#### ⚙️ CI/CD & DevOps:
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-%231e88e5.svg?style=for-the-badge&logo=argo&logoColor=white)
 
-#### 🔐 Cybersecurity & CTF Tools:
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![nmap](https://img.shields.io/badge/nmap-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...)
-![Metasploit](https://img.shields.io/badge/Metasploit-blue?style=for-the-badge)
-![JohnTheRipper](https://img.shields.io/badge/John%20the%20Ripper-red?style=for-the-badge)
-
-#### 🤖 AI / ML / DL:
-- Data Preprocessing & Augmentation
-- Model Training & Evaluation
-- Transfer Learning
-- Quantization
-- Pruning
-- ONNX Model Conversion
-- TensorRT Acceleration
-- CNNs / RNNs / Transformers
-
-#### 💾 Database:
+#### 💾 Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-#### 🔧 Development Tools:
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+#### 🧰 Development Tools:
+![Git](https://img.shields.io/badge/Git-%23E44C30.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-<br>
-<br>
+---
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| [🧪 Selenium E2E Framework](https://github.com/Kartik211/Selenium-E2E-Framework) | Hybrid automation with POM, TestNG, and Maven | Java, Selenium, TestNG |
+| [🌐 API Automation Suite](https://github.com/Kartik211/API-Automation) | REST API testing using Postman & Newman | Postman, Jenkins |
+| [💾 SQL Testing Repo](https://github.com/Kartik211/SQL-Practice) | Common QA SQL queries and joins | MySQL, SQL Server |
+| [📊 Manual Test Cases](https://github.com/Kartik211/Manual-Test-Cases) | Real-world test cases and bug reports | Excel, Markdown |
+
+---
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best Work***
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">ANANT</h3>
+      <h3 align="center">Selenium Hybrid Framework</h3>
       <div align="center">
-        <a href="https://github.com/Ananttyagi07/Linux-Anant" target="_blank">
-          <img src="https://github.com/Ananttyagi07/Linux-Anant/raw/main/assets/linux-anant-logo.png" width="500" style="object-fit: cover;" alt="Linux-Anant">
+        <a href="https://github.com/Kartik211/Selenium-E2E-Framework">
+          <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="450" alt="Selenium Framework">
         </a>
         <p>
-          <a href="https://github.com/Ananttyagi07/Linux-Anant" target="_blank">
-            <img src="https://img.shields.io/badge/Linux--Anant-%2300ffcc?style=for-the-badge&logo=linux&logoColor=black">
-          </a>
+          <strong>Framework Highlights:</strong> <br>
+          Page Object Model • Data-Driven • Extent Reports • CI/CD Ready
         </p>
-        <p><strong>Linux-Anant:</strong> A fully integrated AI-powered Operating System. <br> Currently under active development — STAY TUNED!</p>
       </div>
     </td>
   </tr>
 </table>
+
+---
+
+<!-- 📊 GitHub Stats -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; ***GitHub Stats***
 <br>
 
-</table>
-<br>
-
-<!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 <p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ananttyagi07&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananttyagi07&theme=nightowl&hide_border=false" alt="Ananttyagi07 streak" />
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ananttyagi07&theme=nightowl&hide_border=false&langs_count=10"/>
-</td>
-</tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartik211&theme=nightowl&show_icons=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik211&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik211&theme=nightowl&hide_border=false&langs_count=8"/>
 </p>
-<br>
+
+---
 
 <!-- Visitor Counter -->
-<br>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/ALX-13/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+<div align="center">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="40">
+    <img src="https://profile-counter.glitch.me/Kartik211/count.svg">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="40">
 </div>
-<br>
-<br>
 
+<br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
