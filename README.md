@@ -30,13 +30,13 @@ My focus lies in designing **scalable automation frameworks**, ensuring **end-to
 
 | Skill | Progress | Status |
 |:------|:----------|:--------|
-| Selenium WebDriver | ![90%](https://progress-bar.dev/90/?title=Mastered&color=green) | ✅ Completed |
-| Java (for Automation) | ![80%](https://progress-bar.dev/80/?title=Advanced&color=green) | 🧠 Strong |
-| TestNG / JUnit | ![75%](https://progress-bar.dev/75/?title=Learning&color=orange) | 🔄 In Progress |
-| API Testing (RestAssured / Postman) | ![70%](https://progress-bar.dev/70/?title=HandsOn&color=orange) | 🧩 In Progress |
-| SQL / DB Testing | ![60%](https://progress-bar.dev/60/?title=Practice&color=yellow) | 🔧 Improving |
-| Jenkins / CI-CD | ![50%](https://progress-bar.dev/50/?title=Learning&color=yellow) | 📈 Growing |
-| Docker / GitHub Actions | ![40%](https://progress-bar.dev/40/?title=Exploring&color=red) | 🧭 Beginner |
+| Selenium WebDriver | [90%](https://progress-bar.dev/90/?title=Mastered&color=green) | ✅ Completed |
+| Java (for Automation) | [80%](https://progress-bar.dev/80/?title=Advanced&color=green) | 🧠 Strong |
+| TestNG / JUnit | [75%](https://progress-bar.dev/75/?title=Learning&color=orange) | 🔄 In Progress |
+| API Testing (RestAssured / Postman) | [70%](https://progress-bar.dev/70/?title=HandsOn&color=orange) | 🧩 In Progress |
+| SQL / DB Testing | [60%](https://progress-bar.dev/60/?title=Practice&color=yellow) | 🔧 Improving |
+| Jenkins / CI-CD | [50%](https://progress-bar.dev/50/?title=Learning&color=yellow) | 📈 Growing |
+| Docker / GitHub Actions | [40%](https://progress-bar.dev/40/?title=Exploring&color=red) | 🧭 Beginner |
 
 ---
 
