@@ -42,9 +42,12 @@ My focus lies in designing **scalable automation frameworks**, ensuring **end-to
 
 ### 📅 Days of Code Streak (Automated)
 
+### Days of Code Streak (Automated)
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kartik211&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="85%"/>
+  <img src="https://streak-stats.demolab.com?user=Kartik211&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="85%"/>
 </p>
+
 
 ---
 
