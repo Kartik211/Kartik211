@@ -1,22 +1,10 @@
-## 🟢 Ultra Hacker Mode: GitHub Code Streak
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<h1 align="center"><b>Hi there 👋, I'm <a href="https://github.com/Kartik211">Kartik Tyagi</a></b></h1>
+<h3 align="center">🚀 SDET | QA Engineer | Automation Enthusiast | Bug Slayer 🐞</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kartik211&theme=matrix&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=00FF00&ring=00FF00&currStreakLabel=00FF00" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED...;INITIALIZING+HACKER+PROFILE...;LOADING+GITHUB+STREAK...;SYSTEM+ONLINE+✔" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartik211&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kartik211&layout=compact&theme=chartreuse-dark&hide_border=true" width="41%"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.gif" width="100%">
+    <img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="60" />
 </p>
 
 ---
@@ -42,20 +30,20 @@ My focus lies in designing **scalable automation frameworks**, ensuring **end-to
 
 | Skill | Progress | Status |
 |:------|:----------|:--------|
-| Selenium WebDriver | [90%](https://progress-bar.dev/90/?title=Mastered&color=green) | ✅ Completed |
-| Java (for Automation) | [80%](https://progress-bar.dev/80/?title=Advanced&color=green) | 🧠 Strong |
-| TestNG / JUnit | [75%](https://progress-bar.dev/75/?title=Learning&color=orange) | 🔄 In Progress |
-| API Testing (RestAssured / Postman) | [70%](https://progress-bar.dev/70/?title=HandsOn&color=orange) | 🧩 In Progress |
-| SQL / DB Testing | [60%](https://progress-bar.dev/60/?title=Practice&color=yellow) | 🔧 Improving |
-| Jenkins / CI-CD | [50%](https://progress-bar.dev/50/?title=Learning&color=yellow) | 📈 Growing |
-| Docker / GitHub Actions | [40%](https://progress-bar.dev/40/?title=Exploring&color=red) | 🧭 Beginner |
+| Selenium WebDriver | ![90%](https://progress-bar.dev/90/?title=Mastered&color=green) | ✅ Completed |
+| Java (for Automation) | ![80%](https://progress-bar.dev/80/?title=Advanced&color=green) | 🧠 Strong |
+| TestNG / JUnit | ![75%](https://progress-bar.dev/75/?title=Learning&color=orange) | 🔄 In Progress |
+| API Testing (RestAssured / Postman) | ![70%](https://progress-bar.dev/70/?title=HandsOn&color=orange) | 🧩 In Progress |
+| SQL / DB Testing | ![60%](https://progress-bar.dev/60/?title=Practice&color=yellow) | 🔧 Improving |
+| Jenkins / CI-CD | ![50%](https://progress-bar.dev/50/?title=Learning&color=yellow) | 📈 Growing |
+| Docker / GitHub Actions | ![40%](https://progress-bar.dev/40/?title=Exploring&color=red) | 🧭 Beginner |
 
 ---
 
 ### 📅 Days of Code Streak (Automated)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kartik211&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="85%"/>
+  <img src="https://streak-stats.demolab.com?user=Kartik211&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="85%"/>
 </p>
 
 ---
@@ -116,15 +104,9 @@ My focus lies in designing **scalable automation frameworks**, ensuring **end-to
 <p align="center">
   <a href="mailto:kartiktyagi765@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kartikey-tyagi-13a969167/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/tyagikartik211"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://x.com/tyagiaadi368"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/kartik8344/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=SDET+%7C+QA+Automation+Engineer;Breaking+Apps+So+Users+Don't+Have+To;Automation+is+my+Superpower+%F0%9F%94%A5;Debugging+Life+One+Test+at+a+Time" />
-</p>
-
 
 ---
 
