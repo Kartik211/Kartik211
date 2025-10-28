@@ -94,7 +94,7 @@ My focus lies in designing **scalable automation frameworks**, ensuring **end-to
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik211&layout=compact&theme=nightowl" width="49%"/>
+  <img src="https://komarev.com/ghpvc/?username=Kartik211&label=Profile%20Views&color=32CD32&style=for-the-badge" width="49%"/>
 </p>
 
 ---
