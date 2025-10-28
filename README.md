@@ -1,10 +1,22 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<h1 align="center"><b>Hi there 👋, I'm <a href="https://github.com/Kartik211">Kartik Tyagi</a></b></h1>
-<h3 align="center">🚀 SDET | QA Engineer | Automation Enthusiast | Bug Slayer 🐞</h3>
+## 🟢 Ultra Hacker Mode: GitHub Code Streak
 
 <p align="center">
-    <img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="60" />
+  <img src="https://streak-stats.demolab.com?user=Kartik211&theme=matrix&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=00FF00&ring=00FF00&currStreakLabel=00FF00" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED...;INITIALIZING+HACKER+PROFILE...;LOADING+GITHUB+STREAK...;SYSTEM+ONLINE+✔" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartik211&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kartik211&layout=compact&theme=chartreuse-dark&hide_border=true" width="41%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.gif" width="100%">
 </p>
 
 ---
@@ -107,6 +119,12 @@ My focus lies in designing **scalable automation frameworks**, ensuring **end-to
   <a href="https://x.com/tyagikartik211"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/kartik8344/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=SDET+%7C+QA+Automation+Engineer;Breaking+Apps+So+Users+Don't+Have+To;Automation+is+my+Superpower+%F0%9F%94%A5;Debugging+Life+One+Test+at+a+Time" />
+</p>
+
 
 ---
 
