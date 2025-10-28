@@ -112,7 +112,7 @@ My focus lies in designing **scalable automation frameworks**, ensuring **end-to
 
 <div align="center">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/Kartik211/count.svg">
+    <img alt="https://komarev.com/ghpvc/?username=Kartik211&label=Profile%20Views&color=32CD32&style=for-the-badge">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 
