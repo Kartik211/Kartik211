@@ -29,21 +29,24 @@ My focus lies in designing **scalable automation frameworks**, ensuring **end-to
 ## 🧭 SDET Learning Journey Progress 🚀
 
 | Skill | Progress | Status |
-|:------|:----------|:--------|
-| Selenium WebDriver | ![90%](https://progress-bar.dev/90/?title=Mastered&color=green) | ✅ Completed |
-| Java (for Automation) | ![80%](https://progress-bar.dev/80/?title=Advanced&color=green) | 🧠 Strong |
-| TestNG / JUnit | ![75%](https://progress-bar.dev/75/?title=Learning&color=orange) | 🔄 In Progress |
-| API Testing (RestAssured / Postman) | ![70%](https://progress-bar.dev/70/?title=HandsOn&color=orange) | 🧩 In Progress |
-| SQL / DB Testing | ![60%](https://progress-bar.dev/60/?title=Practice&color=yellow) | 🔧 Improving |
-| Jenkins / CI-CD | ![50%](https://progress-bar.dev/50/?title=Learning&color=yellow) | 📈 Growing |
-| Docker / GitHub Actions | ![40%](https://progress-bar.dev/40/?title=Exploring&color=red) | 🧭 Beginner |
+|------|----------|--------|
+| Selenium WebDriver | ![90%](https://img.shields.io/badge/Selenium-90%25-success) | ✅ Completed |
+| Java (Automation) | ![80%](https://img.shields.io/badge/Java-80%25-brightgreen) | 🧠 Strong |
+| TestNG / JUnit | ![75%](https://img.shields.io/badge/TestNG-75%25-orange) | 🔄 In Progress |
+| API Testing | ![70%](https://img.shields.io/badge/API-70%25-orange) | 🧩 In Progress |
+| SQL / DB Testing | ![60%](https://img.shields.io/badge/SQL-60%25-yellow) | 🔧 Improving |
+| Jenkins / CI-CD | ![50%](https://img.shields.io/badge/Jenkins-50%25-yellow) | 📈 Growing |
+| Docker / GitHub Actions | ![40%](https://img.shields.io/badge/Docker-40%25-red) | 🧭 Beginner |
 
 ---
 
-### 📅 Days of Code Streak (Automated)
+## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kartik211&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="85%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik211&theme=react-dark&hide_border=true"
+    width="95%"
+  />
 </p>
 
 ---
@@ -82,11 +85,7 @@ My focus lies in designing **scalable automation frameworks**, ensuring **end-to
 
 ---
 
-### 🏆 Achievements & GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kartik211&theme=darkhub&no-bg=true&margin-w=15&margin-h=15" width="85%"/>
-</p>
+### 🏆 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kartik211&theme=nightowl&show_icons=true" width="49%"/>
@@ -112,7 +111,7 @@ My focus lies in designing **scalable automation frameworks**, ensuring **end-to
 
 <div align="center">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/Kartik211/count.svg">
+    <img alt="visitors counter" src="https://komarev.com/ghpvc/?username=Kartik211&label=Profile%20Views&color=blue&style=flat">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 
