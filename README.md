@@ -1,141 +1,184 @@
+<!-- HEADER -->
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kartikey
-  %20Tyagi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=SDET%20%7C%20QA%20Engineer%20%7C%20Automation%20Architect&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7B2FBE,100:00D4FF&height=250&section=header&text=Kartik%20Tyagi&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=SDET%20%E2%80%A2%20QA%20Engineer%20%E2%80%A2%20Automation%20Architect&descSize=20&descAlignY=75&animation=twinkling&stroke=7B2FBE&strokeWidth=2" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Breaking+bugs+before+they+break+you+🐞;Building+scalable+automation+frameworks+⚙️;Turning+flaky+tests+into+reliable+pipelines+🚀;SDET+%7C+CI%2FCD+%7C+Open+to+collaborate!" alt="Typing SVG" />
-</a>
+</div>
 
-<br/><br/>
+<!-- TYPING ANIMATION -->
+<div align="center">
 
-<!-- Profile Badge Row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kartikey-tyagi-13a969167/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kartikeytyagi765@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/tyagiaadi368)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Kartikey8344/)
-[![Profile Views](https://komarev.com/ghpvc/?username=Kartikey211&label=Profile+Views&color=7B61FF&style=for-the-badge)](https://github.com/Kartikey211)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=7B2FBE&center=true&vCenter=true&multiline=false&width=700&height=60&lines=🔥+Breaking+bugs+before+they+break+you;⚙️+Architecting+scalable+test+frameworks;🚀+Automating+everything+that+moves;🧪+SDET+%7C+CI%2FCD+%7C+Zero-Bug+Advocate)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 `whoami`
+<!-- SOCIAL BADGES -->
+<div align="center">
 
-```yaml
-name        : Kartikey Tyagi
-role        : Software Development Engineer in Test (SDET)
-location    : India 🇮🇳
-focus       : Scalable Test Automation | CI/CD Pipelines | Zero-Bug Delivery
-philosophy  : "Quality is not an act, it's a habit."
-currently   : Building next-gen automation frameworks
-open_to     : Collaborations, freelance QA projects & new opportunities
-contact     : Kartikeytyagi765@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-tyagi-13a969167/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartiktyagi765@gmail.com)&nbsp;
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/tyagiaadi368)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kartik8344/)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Kartik211&label=PROFILE+VIEWS&color=7B2FBE&style=for-the-badge)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ABOUT ME -->
+## 🧬 About Me
+
+<img align="right" width="320" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```typescript
+const kartik: SDET = {
+  name     : "Kartik Tyagi",
+  role     : "Software Dev Engineer in Test",
+  location : "India 🇮🇳",
+
+  superpowers: [
+    "Selenium WebDriver",
+    "API Test Automation",
+    "CI/CD Pipelines",
+    "Docker + Selenium Grid",
+  ],
+
+  currentlyLearning: ["GitHub Actions", "K6 Performance"],
+  goal     : "Zero-bug production releases 🎯",
+  openTo   : "Collabs, QA consults & opportunities",
+  contact  : "kartiktyagi765@gmail.com",
+
+  funFact  : "I test the tests 🧪",
+};
 ```
 
-> 💡 *Because someone has to make sure your app doesn't break in production — that someone is me.*
+<br clear="right"/>
 
 ---
 
-## 🚀 SDET Skill Radar
+<!-- SKILLS -->
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-| 🛠️ Skill | ⚡ Level | 📊 Progress |
-|---|---|---|
-| **Selenium WebDriver** | Expert | `████████████████████░░` 90% |
-| **Java (Automation)** | Advanced | `████████████████░░░░░░` 80% |
-| **TestNG / JUnit** | Proficient | `███████████████░░░░░░░` 75% |
-| **API Testing (RestAssured)** | Proficient | `██████████████░░░░░░░░` 70% |
-| **SQL / DB Testing** | Intermediate | `████████████░░░░░░░░░░` 60% |
-| **Jenkins / CI-CD** | Intermediate | `██████████░░░░░░░░░░░░` 50% |
-| **Docker / GitHub Actions** | Learning | `████████░░░░░░░░░░░░░░` 40% |
-
-</div>
-
----
-
-## 🧩 Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages
+### 🔤 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 Automation & Testing
+### 🤖 Testing & Automation
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-### ⚙️ Frameworks & DevOps
+### 🏗️ Frameworks & DevOps
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=testing-library&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </div>
 
 ---
 
-## 🏗️ Featured Projects
+<!-- SKILL METER -->
+## 📊 Skill Mastery
 
 <div align="center">
 
-| 🔥 Project | 📋 Description | 🧱 Stack |
-|---|---|---|
-| 🧰 **Selenium Hybrid Framework** | End-to-end POM framework with Extent Reports & data-driven testing | `Java` `Selenium` `TestNG` |
-| 🌐 **API Automation Suite** | Full REST API coverage with schema validation & assertions | `RestAssured` `Maven` `JSON` |
-| 🔁 **CI/CD Test Pipeline** | Auto-triggered regression suite integrated with Jenkins | `Jenkins` `Git` `Shell` |
-| 🐋 **Dockerized Selenium Grid** | Cross-browser parallel execution via Docker containers | `Docker` `Selenium Grid` |
+| Skill | Mastery | Bar |
+|:---|:---:|:---|
+| 🟣 Selenium WebDriver | **90%** | `▓▓▓▓▓▓▓▓▓░` |
+| 🟣 Java (Automation) | **80%** | `▓▓▓▓▓▓▓▓░░` |
+| 🟡 TestNG / JUnit | **75%** | `▓▓▓▓▓▓▓░░░` |
+| 🟡 API Testing | **70%** | `▓▓▓▓▓▓▓░░░` |
+| 🟠 SQL / DB Testing | **60%** | `▓▓▓▓▓▓░░░░` |
+| 🔴 Jenkins / CI-CD | **50%** | `▓▓▓▓▓░░░░░` |
+| 🔴 Docker / GH Actions | **40%** | `▓▓▓▓░░░░░░` |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats & Activity
+<!-- PROJECTS -->
+## 🚀 Flagship Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kartikey211&theme=tokyonight&show_icons=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7B61FF&icon_color=7B61FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikey211&theme=tokyonight&hide_border=true&background=0d1117&stroke=7B61FF&ring=7B61FF&fire=FF9800&currStreakLabel=7B61FF" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey211&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7B61FF&text_color=c9d1d9" width="48%"/>
+| 🏷️ | Project | Description | Stack |
+|:---:|:---|:---|:---|
+| 🧰 | **Selenium Hybrid Framework** | POM architecture with Extent Reports, data-driven & cross-browser support | `Java` `Selenium` `TestNG` `Maven` |
+| 🌐 | **API Automation Suite** | Full REST API coverage with schema validation, chaining & assertions | `RestAssured` `Maven` `JSON Schema` |
+| 🔁 | **CI/CD Test Pipeline** | Auto-triggered regression on every push via Jenkins integration | `Jenkins` `Git` `Shell` `Groovy` |
+| 🐋 | **Dockerized Selenium Grid** | Parallel cross-browser execution across Docker containers | `Docker` `Selenium Grid` `Java` |
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+<!-- GITHUB STATS -->
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikey211&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7B61FF&line=7B61FF&point=FF9800&area=true&area_color=7B61FF" width="96%"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartik211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&icon_color=00D4FF&text_color=C9D1D9&border_radius=15"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik211&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FBE&ring=7B2FBE&fire=00D4FF&currStreakLabel=7B2FBE&sideLabels=C9D1D9"/>
+
+</div>
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik211&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=C9D1D9&border_radius=15"/>
 </div>
 
 ---
 
+<!-- ACTIVITY GRAPH -->
+## 🗓️ Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik211&theme=tokyo-night&bg_color=0D1117&color=7B2FBE&line=00D4FF&point=7B2FBE&area=true&area_color=7B2FBE&hide_border=true&radius=8" width="97%"/>
+</div>
+
+---
+
+<!-- TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kartikey211&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="96%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kartik211&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="97%"/>
 </div>
 
 ---
 
+<!-- QUOTE -->
 <div align="center">
 
-### 💬 Random Dev Quote
+### 💭 Today's Wisdom
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn"/>
+<!-- FOOTER -->
+<div align="center">
+
+**🤝 Let's build quality software together — reach out anytime!**
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kartikey-tyagi-13a969167/)
+[![Email](https://img.shields.io/badge/Drop%20a%20Mail-Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:kartiktyagi765@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2FBE&height=120&section=footer&animation=twinkling"/>
 
 </div>
