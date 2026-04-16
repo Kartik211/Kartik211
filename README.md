@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kartik%20Tyagi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=SDET%20%7C%20QA%20Engineer%20%7C%20Automation%20Architect&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kartikey
+  %20Tyagi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=SDET%20%7C%20QA%20Engineer%20%7C%20Automation%20Architect&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -11,11 +12,11 @@
 <br/><br/>
 
 <!-- Profile Badge Row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-tyagi-13a969167/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartiktyagi765@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kartikey-tyagi-13a969167/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kartikeytyagi765@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/tyagiaadi368)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kartik8344/)
-[![Profile Views](https://komarev.com/ghpvc/?username=Kartik211&label=Profile+Views&color=7B61FF&style=for-the-badge)](https://github.com/Kartik211)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Kartikey8344/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Kartikey211&label=Profile+Views&color=7B61FF&style=for-the-badge)](https://github.com/Kartikey211)
 
 </div>
 
@@ -24,14 +25,14 @@
 ## 🧠 `whoami`
 
 ```yaml
-name        : Kartik Tyagi
+name        : Kartikey Tyagi
 role        : Software Development Engineer in Test (SDET)
 location    : India 🇮🇳
 focus       : Scalable Test Automation | CI/CD Pipelines | Zero-Bug Delivery
 philosophy  : "Quality is not an act, it's a habit."
 currently   : Building next-gen automation frameworks
 open_to     : Collaborations, freelance QA projects & new opportunities
-contact     : kartiktyagi765@gmail.com
+contact     : Kartikeytyagi765@gmail.com
 ```
 
 > 💡 *Because someone has to make sure your app doesn't break in production — that someone is me.*
@@ -103,10 +104,10 @@ contact     : kartiktyagi765@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kartik211&theme=tokyonight&show_icons=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7B61FF&icon_color=7B61FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik211&theme=tokyonight&hide_border=true&background=0d1117&stroke=7B61FF&ring=7B61FF&fire=FF9800&currStreakLabel=7B61FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kartikey211&theme=tokyonight&show_icons=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7B61FF&icon_color=7B61FF&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikey211&theme=tokyonight&hide_border=true&background=0d1117&stroke=7B61FF&ring=7B61FF&fire=FF9800&currStreakLabel=7B61FF" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik211&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7B61FF&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey211&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7B61FF&text_color=c9d1d9" width="48%"/>
 
 </div>
 
@@ -115,7 +116,7 @@ contact     : kartiktyagi765@gmail.com
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik211&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7B61FF&line=7B61FF&point=FF9800&area=true&area_color=7B61FF" width="96%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikey211&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7B61FF&line=7B61FF&point=FF9800&area=true&area_color=7B61FF" width="96%"/>
 </div>
 
 ---
@@ -123,7 +124,7 @@ contact     : kartiktyagi765@gmail.com
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kartik211&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="96%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kartikey211&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="96%"/>
 </div>
 
 ---
