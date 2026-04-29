@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00D4FF&height=250&section=header&text=Kartikey%20Tyagi&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=SDET%20•%20QA%20Engineer%20•%20Automation%20Architect&descSize=20&descAlignY=75&descColor=000000&animation=fadeIn&stroke=7B2FBE&strokeWidth=2" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00D4FF&height=250&section=header&text=Kartikey%20Tyagi&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=SDET%20•%20QA%20Engineer%20•%20Automation%20Architect&descSize=20&descAlignY=75&descColor=000000&animation=fadeIn&stroke=7B2FBE&strokeWidth=2" />
 
 </div>
 
