@@ -120,13 +120,10 @@ const kartikey: SDET = {
 
 | 🏷️ | Project | Description | Stack |
 | :-: | :------ | :---------- | :---- |
-| 🧰 | **[Selenium UI Framework](https://github.com/Kartik211)** | POM architecture with ThreadLocal WebDriver, Extent Reports, parallel execution — 200+ test cases, 40% faster run time | `Java` `Selenium` `TestNG` `Maven` `GitHub Actions` |
-| 🌐 | **[API Automation Suite](https://github.com/Kartik211)** | Full REST API coverage across 3 environments, 100+ data-driven test cases with schema validation and assertions | `RestAssured` `TestNG` `Maven` `GitHub Actions` |
-| 📊 | **[Auto Reporting Tool](https://github.com/Kartik211)** | Internal Java tool replacing 2-hour manual reporting with a 20-minute automated run — 83% reduction, 0 manual input | `Java` `Scheduled Jobs` |
+| 🧰 | **[Selenium UI Framework](https://github.com/Kartik211/selenium-framework-saucedemo)** | POM architecture with ThreadLocal WebDriver, Extent Reports, parallel execution — 200+ test cases, 40% faster run time | `Java` `Selenium` `TestNG` `Maven` `GitHub Actions` |
+| 🌐 | **[API Automation Suite](https://github.com/Kartik211/APIAutomationFramework)** | Full REST API coverage across 3 environments, 100+ data-driven test cases with schema validation and assertions | `RestAssured` `TestNG` `Maven` `GitHub Actions` |
 
 </div>
-
-> 💡 *Update the project links above with your actual repo URLs once pinned*
 
 ---
 
