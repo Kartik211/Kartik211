@@ -10,7 +10,7 @@
 
 </div>
 
----
+--
 
 <!-- SOCIAL BADGES -->
 <div align="center">
