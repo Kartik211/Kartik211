@@ -9,9 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=7B2FBE&center=true&vCenter=true&multiline=false&width=700&height=60&lines=🔥+Breaking+bugs+before+they+break+you;⚙️+Architecting+scalable+test+frameworks;🚀+Automating+everything+that+moves;☁️+AWS+Certified+Developer+–+Associate)](https://git.io/typing-svg)
 
 </div>
-
 --
-
 <!-- SOCIAL BADGES -->
 <div align="center">
 
