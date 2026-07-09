@@ -140,17 +140,14 @@ const kartikey: SDET = {
 
 <!-- GITHUB STATS -->
 ## 📈 GitHub Stats
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartik211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&icon_color=00D4FF&text_color=C9D1D9&border_radius=15"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik211&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FBE&ring=7B2FBE&fire=00D4FF&currStreakLabel=7B2FBE&sideLabels=C9D1D9"/>
-
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Kartik211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&icon_color=00D4FF&text_color=C9D1D9&border_radius=15"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/streak-stats?username=Kartik211&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FBE&ring=7B2FBE&fire=00D4FF&currStreakLabel=7B2FBE&sideLabels=C9D1D9"/>
 </div>
-
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik211&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=C9D1D9&border_radius=15"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kartik211&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=C9D1D9&border_radius=15"/>
 </div>
+---
 
 ---
 
