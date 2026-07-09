@@ -162,11 +162,9 @@ const kartikey: SDET = {
 
 <!-- TROPHIES -->
 ## 🏆 GitHub Trophies
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kartik211&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="97%"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Kartik211&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="97%"/>
 </div>
-
 ---
 
 <!-- OPEN TO WORK -->
